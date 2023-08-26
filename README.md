@@ -24,7 +24,7 @@ To install this project, clone the repository and navigate to the project direct
 
 Then, compile the contract using a Solidity compiler such as solc.
 
-git clone https://github.com/yourusername/elsCryptoCoin.git
+git clone https://github.com/El-nana/elsCryptoCoin.git
 
 cd elsCryptoCoin
 
